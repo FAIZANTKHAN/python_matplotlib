@@ -1,4 +1,7 @@
 **Matplotlib: Data Visualization in Python**
+
+
+
 Matplotlib is a powerful and versatile data visualization library for Python. It allows you to create a wide range of static, animated, and interactive plots, making it an essential tool for anyone working with data.
 
 Key Features:
